@@ -1,4 +1,4 @@
-# About Me:
+# 💫 About Me:
 **Hi there, I'm Vrishab Davey!** 👋<br><br>I'm pursuing an MSc in Computer Science with a concentration in Artificial Intelligence at the University of Ottawa. My academic journey started with a BTech from SRM Institute of Science and Technology, and since then, I've immersed myself in the tech world, gaining hands-on experience in Python, MySQL, TensorFlow, C, C++, and frameworks like Keras, PyTorch, and scikit-learn. I'm also proficient in JS, iOS, Android, and MLOps, giving me a versatile toolkit to tackle various challenges.<br><br>🔭 I’m currently researching and developing cutting-edge machine-learning models and tools.<br>🌱 I’m learning something new every day.<br>👯 I’m looking to collaborate on exciting projects, hackathons, and open-source contributions.<br>🥅 2024 Goals: Contribute more to open-source projects and participate in hackathons.<br>💬 Ask me about AI, machine learning, and tech innovations.<br>⚡ Fun fact: I love astronomy, and enjoy soccer in my free time.<br><br>**My Journey So Far:**<br><br>- **National Institute of Technology, Uttarakhand**: Led a project to develop an optimized U-Net model for brain tumor segmentation from MRI scans, including an interactive visualization tool with Streamlit.<br>- **Wipro Technologies**: Enhanced service delivery efficiency using ServiceNow’s developer toolkit, integrating OpenAI’s RAG model to develop an advanced virtual agent, optimizing IT Service Management processes.<br>- **Samsung R&D Institute India**: Developed an Eye Gaze Correction and Body Alignment Model with TensorFlow, earning an Excellence Certificate Award for creating scalable and efficient data pipelines.<br>- **SAP**: As a Technical Consultant, translated functional specifications into effective program objects, performed rigorous unit testing, and collaborated closely with functional consultants to design solutions for identified gaps.<br><br>I'm passionate about innovation and problem-solving in the tech industry, and I actively participate in personal projects and coding competitions to enhance my skills and gain real-world insights.<br><br>If you're passionate about Artificial Intelligence or interested in collaboration, let's connect!
 
 
@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vrishab20&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vrishab20&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Inspiration from:
+### ✍️ Inspiration:
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
@@ -22,7 +22,7 @@
 [![](https://visitcount.itsvg.in/api?id=Vrishab20&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/vrishabdavey) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/vrishabdavey) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
