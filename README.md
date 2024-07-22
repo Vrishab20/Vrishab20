@@ -10,7 +10,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vrishab20&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vrishab20&theme=blue_navy&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vrishab20&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Inspiration:
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
