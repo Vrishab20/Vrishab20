@@ -1,6 +1,30 @@
 # 💫 About Me:
 **Hi there, I'm Vrishab Davey!**  <br><br>I'm pursuing an MSc in Computer Science with a concentration in Artificial Intelligence at the University of Ottawa. My academic journey started with a Bachelor of Technology (B. Tech.) degree from SRM Institute of Science and Technology. Since then, I've immersed myself in the tech world, gaining hands-on experience in Python, MySQL, TensorFlow, C, C++, and frameworks like Keras, PyTorch, and scikit-learn. I'm also proficient in JS, iOS, Android, and MLOps, giving me a versatile toolkit to tackle various challenges.<br><br>🔭 I’m currently researching and developing cutting-edge machine-learning models and tools.<br>🌱 I’m learning something new every day.<br>👯 I want to collaborate on exciting projects, hackathons, and open-source contributions.<br>🥅 2024 Goals: Contribute more to open-source projects and participate in hackathons.<br>💬 Ask me about AI, machine learning, and tech innovations.<br>⚡ Fun fact: I love astronomy, and enjoy soccer in my free time.<br><br>**My Journey So Far:**<br><br>- **National Institute of Technology, Uttarakhand**: Led a project to develop an optimized U-Net model for brain tumor segmentation from MRI scans, including an interactive visualization tool with Streamlit.<br>- **Wipro Technologies**: Enhanced service delivery efficiency using ServiceNow’s developer toolkit, integrating OpenAI’s RAG model to develop an advanced virtual agent, optimizing IT Service Management processes.<br>- **Samsung R&D Institute India**: Developed an Eye Gaze Correction and Body Alignment Model with TensorFlow, earning an Excellence Certificate Award for creating scalable and efficient data pipelines.<br>- **SAP**: As a Technical Consultant, translated functional specifications into effective program objects, performed rigorous unit testing, and collaborated closely with functional consultants to design solutions for identified gaps.<br><br>I'm passionate about innovation and problem-solving in the tech industry, and I actively participate in personal projects and coding competitions to enhance my skills and gain real-world insights.<br><br>If you're passionate about Artificial Intelligence or interested in collaboration, let's connect!
 
+### 🔹 Programming & Core Concepts  
+ <p align="left">
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img src="https://img.shields.io/badge/Vector%20DB-005571?style=for-the-badge&logo=redis&logoColor=white" />
+ </p>
+ 
+ ### ☁️ Cloud & DevOps  
+ <p align="left">
+   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+ </p>
+ 
+ ### 🤖 AI & Machine Learning  
+ <p align="left">
+   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
+   <img src="https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white" />
+   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vrishab-davey/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/vrishabdavey/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/One-Rock-1692/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Vrishab_20) 
