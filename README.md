@@ -3,9 +3,10 @@
 **Fun fact: I Love to cook.** 
 
 **Bonjour, je m'appelle Vrishab!**
-
+<span lang="fr">
 *Je poursuis une maîtrise en informatique avec une concentration en intelligence artificielle à l’Université d’Ottawa. Je suis passionné par l’utilisation de l’IA et de l’apprentissage automatique pour résoudre des problèmes concrets, en particulier dans le domaine de la santé et des technologies centrées sur l’humain. J’aime travailler sur des projets à la fois utiles et pratiques — que ce soit en développant des modèles d’apprentissage profond, en améliorant l’expérience utilisateur ou en créant des outils qui aident les gens. Je suis toujours curieux, motivé à apprendre et enthousiaste à l’idée de collaborer sur des projets porteurs de sens.*
-**Petite anecdote : j’adore cuisiner!**
+<strong>Petite anecdote : j’adore cuisiner!</strong>
+</span>
 
 ###  Programming & Core Concepts  
  <p align="left">
