@@ -1,5 +1,5 @@
 # About Me:
-**Hi there, I'm Vrishab!**  <br><br>I'm pursuing a Master's in Computer Science with a concentration in Artificial Intelligence at the University of Ottawa. I'm passionate about using AI and machine learning to solve real-world problems, especially in healthcare and human-centered technologies. I enjoy working on projects that are both impactful and practical—whether it's building deep learning models, improving user experiences, or creating tools that help people. I'm always curious, eager to learn, and excited to collaborate on meaningful work. Fun fact: I Love to cook. 
+**Bonjour, I'm Vrishab!**  <br><br>I'm pursuing a Master's in Computer Science with a concentration in Artificial Intelligence at the University of Ottawa. I'm passionate about using AI and machine learning to solve real-world problems, especially in healthcare and human-centered technologies. I enjoy working on projects that are both impactful and practical—whether it's building deep learning models, improving user experiences, or creating tools that help people. I'm always curious, eager to learn, and excited to collaborate on meaningful work. Fun fact: I Love to cook. 
 
 ###  Programming & Core Concepts  
  <p align="left">
