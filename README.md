@@ -40,17 +40,13 @@
    <img src="https://img.shields.io/badge/BERT-1F425F?style=for-the-badge&logo=google&logoColor=white" />
    <img src="https://img.shields.io/badge/LLaMA-FF4500?style=for-the-badge&logo=meta&logoColor=white" />
    <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chain&logoColor=white" />
+   <img src="https://img.shields.io/badge/LLMOps-000000?style=for-the-badge&logo=mlflow&logoColor=white" />
+   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 
  </p>
  
- ###  LLMOps, Orchestration & Optimization  
- <p align="left">
-   <img src="https://img.shields.io/badge/LLMOps-000000?style=for-the-badge&logo=mlflow&logoColor=white" />
-   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-   <img src="https://img.shields.io/badge/Orchestration-3399FF?style=for-the-badge&logo=kubernetes&logoColor=white" />
-   <img src="https://img.shields.io/badge/Cost%20Optimization-FF8800?style=for-the-badge&logo=dollar&logoColor=white" />
- </p>
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrishab-davey/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vrishab_20) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.ca/citations?user=9TwoDpYAAAAJ&hl=en)
