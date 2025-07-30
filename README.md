@@ -40,8 +40,7 @@
    <img src="https://img.shields.io/badge/BERT-1F425F?style=for-the-badge&logo=google&logoColor=white" />
    <img src="https://img.shields.io/badge/LLaMA-FF4500?style=for-the-badge&logo=meta&logoColor=white" />
    <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chain&logoColor=white" />
-   <img src="https://img.shields.io/badge/CrewAI-FFAA00?style=for-the-badge&logo=ai&logoColor=white" />
-   <img src="https://img.shields.io/badge/SwarmAI-660066?style=for-the-badge&logo=ai&logoColor=white" />
+
  </p>
  
  ###  LLMOps, Orchestration & Optimization  
