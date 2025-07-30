@@ -62,8 +62,7 @@
 # Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vrishab20&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-###  Quotes I like:
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vrishab20&label=Profile%20Views&color=6&icon=3&pretty=true)](https://visitcount.itsvg.in)
