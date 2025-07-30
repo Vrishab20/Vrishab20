@@ -1,5 +1,6 @@
 # About Me:
-**Hello, I'm Vrishab!**  <br>I am a Master’s student in Computer Science with a focus on Artificial Intelligence at the University of Ottawa. My interests include applying AI and machine learning to real-world challenges, particularly in healthcare and human-centered technologies. I enjoy developing impactful solutions, from deep learning models to user-focused tools, and value continuous learning and collaboration.
+**Hello, I'm Vrishab!**  <br>I am a Master’s student in Computer Science with a focus on Artificial Intelligence at the University of Ottawa. I enjoy working with convolutional neural networks in healthcare and human-centered technologies, and large language models, with a stronger focus on language models as their current development is truly fascinating.
+
 
 ###  Programming & Core Concepts  
  <p align="left">
